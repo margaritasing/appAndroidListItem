@@ -1,10 +1,6 @@
-package com.alain.cursos.top;
+package com.margaritasing;
 
-/**
- * Created by Alain Nicolás Tello on 19/09/2017.
- * For: CursosAndroidANT
- * All rights reserved 2017
- */
+
 
 public class Artista {
     public static final String ORDEN = "orden";
